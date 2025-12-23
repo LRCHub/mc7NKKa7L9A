@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "熱いハートがそうさせないよ",
+  "base_artist": "神聖かまってちゃん",
+  "createdAt": "2025-12-23T21:04:27.192098Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "熱いハートがそうさせないよ",
+      "artist": "Shinsei Kamattechan",
+      "has_synced": true,
+      "path": "select/01_熱いハートがそうさせないよ_Shinsei_Kamattechan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "熱いハートがそうさせないよ",
+      "artist": "神聖かまってちゃん",
+      "has_synced": false,
+      "path": "select/pl_01_熱いハートがそうさせないよ_神聖かまってちゃん.txt"
+    }
+  ]
+}
